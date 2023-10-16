@@ -1,16 +1,27 @@
-# time
+# Clock app
 
-A new Flutter project.
+Tihs Flutter project Subject is clock.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Projects is for Clock UI.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  ----
+  
+
++ First Screen of Clock App
+
+![HomeScreen_Clock_App](https://github.com/amishad7/CLOCK/assets/118448879/ca4e228e-f3fb-405b-a8dd-3182b6a80b71)
+
+
+  ----
+
+  
++ Next is Page is timer where you can count using the timer and pause it.
+
+
+
+  
+![Timer_of_Clock_App](https://github.com/amishad7/CLOCK/assets/118448879/2e7e04ba-9459-455f-8df2-5adea43b21ef)
