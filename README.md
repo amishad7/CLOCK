@@ -20,6 +20,7 @@ This Projects is for Clock UI.
 
   
 + Next is Page is timer where you can count using the timer and pause it.
++ Here is the Gif of the Page.
 
 
 
